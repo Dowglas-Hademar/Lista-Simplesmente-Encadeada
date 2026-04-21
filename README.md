@@ -40,3 +40,5 @@ Neste projeto, foram aplicados conceitos fundamentais de Estrutura de Dados:
 * **Complexidade de Algoritmos:** * Busca e Remoção: $O(n)$ - no pior caso, percorremos a lista toda.
     * Inserção no Início/Fim: $O(1)$ - graças ao controle dos ponteiros `head` e `last`.
 * **Ordenação:** Implementação do algoritmo Bubble Sort adaptado para referências de memória.
+
+![Estrutura da Lista Encadeada](lista_estrutura.png)
