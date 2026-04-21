@@ -1,6 +1,6 @@
 # Lista Simplesmente Encadeada - Gestão de Alunos 🎓
 
-Este repositório contém uma implementação completa de uma **Lista Simplesmente Encadeada** (Singly Linked List) desenvolvida em Python para a disciplina de **Algorítmos e Estruturas de Dados (AED)**.
+Este repositório contém uma implementação completa de uma **Lista Simplesmente Encadeada** (Singly Linked List) desenvolvida em Python para a disciplina de **Algoritmos e Estruturas de Dados (AED)**.
 
 O projeto simula um sistema de gerenciamento de alunos, permitindo operações de inserção, busca, remoção e ordenação.
 
