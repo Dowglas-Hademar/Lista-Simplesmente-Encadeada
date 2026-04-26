@@ -42,3 +42,8 @@ Neste projeto, foram aplicados conceitos fundamentais de Estrutura de Dados:
 * **Ordenação:** Implementação do algoritmo Bubble Sort adaptado para referências de memória.
 
 ![Estrutura da Lista Encadeada](lista_estrutura.png)
+
+---
+
+Desenvolvido por [Dowglas Hademar](https://github.com/Dowglas-Hademar)
+
